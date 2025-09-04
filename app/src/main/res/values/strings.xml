@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppSemana4</string>
+
+    <string name="welcome">Hola a todos!</string>
 </resources>
